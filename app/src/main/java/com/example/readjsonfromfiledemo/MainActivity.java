@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "==>";
+    private final String TAG = "==>";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
